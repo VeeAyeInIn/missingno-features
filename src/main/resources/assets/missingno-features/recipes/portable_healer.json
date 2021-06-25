@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "AMA",
+    "XXX"
+  ],
+  "key": {
+    "M": [
+      {
+        "item": "pixelmon:healer",
+        "data": 0
+      }
+    ],
+    "X": [
+      {
+        "item": "pixelmon:full_restore",
+        "data": 0
+      }
+    ],
+    "A": [
+      {
+        "item": "pixelmon:rare_candy",
+        "data": 0
+      }
+    ]
+  },
+  "result": {
+    "item": "missingno-features:portable_healer",
+    "data": 0
+  }
+}

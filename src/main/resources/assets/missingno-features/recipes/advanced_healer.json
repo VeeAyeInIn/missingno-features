@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "AMA",
+    "XXX"
+  ],
+  "key": {
+    "M": [
+      {
+        "item": "minecraft:nether_star",
+        "data": 0
+      }
+    ],
+    "X": [
+      {
+        "item": "pixelmon:sitrus_berry",
+        "data": 0
+      }
+    ],
+    "A": [
+      {
+        "item": "missingno-features:portable_healer",
+        "data": 0
+      }
+    ]
+  },
+  "result": {
+    "item": "missingno-features:advanced_healer",
+    "data": 0
+  }
+}

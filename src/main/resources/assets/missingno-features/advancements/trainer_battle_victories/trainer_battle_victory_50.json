@@ -1,0 +1,24 @@
+{
+	"display": {
+		"icon": {
+			"item": "pixelmon:poke_ball"
+		},
+		"title": {
+			"translate": "advancements.trainer_battle_victory_50.title"
+		},
+		"description": {
+			"translate": "advancements.trainer_battle_victory_50.description"
+		},
+		"background": "pixelmon:textures/gui/advancements/backgrounds/ruinswall.png",
+		"hidden": false
+	},
+	"parent": "missingno-features:trainer_battle_victories/trainer_battle_victory_trigger",
+	"criteria": {
+		"trainer_battle_victory_50": {
+			"trigger": "missingno-features:trainer_battle_victory_trigger",
+			"conditions" : {
+				"trainer_kills" : 50
+			}
+		}
+	}
+}

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "AMA",
+    "XXX"
+  ],
+  "key": {
+    "M": [
+      {
+        "item": "pixelmon:pc",
+        "data": 0
+      }
+    ],
+    "X": [
+      {
+        "item": "pixelmon:ultra_ball",
+        "data": 0
+      }
+    ],
+    "A": [
+      {
+        "item": "minecraft:ender_chest",
+        "data": 0
+      }
+    ]
+  },
+  "result": {
+    "item": "missingno-features:portable_pc",
+    "data": 0
+  }
+}

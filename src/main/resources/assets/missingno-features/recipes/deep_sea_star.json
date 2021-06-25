@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XMX",
+    "XXX"
+  ],
+  "key": {
+    "M": [
+      {
+        "item": "minecraft:nether_star",
+        "data": 0
+      }
+    ],
+    "X": [
+      {
+        "item": "pixelmon:deep_sea",
+        "data": 0
+      }
+    ]
+  },
+  "result": {
+    "item": "missingno-features:deep_sea_star",
+    "data": 0
+  }
+}
